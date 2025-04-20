@@ -2,6 +2,7 @@
 <h3 align="center">Electrical Engineer with a demonstrated history of working in the OEM industry. Skilled in design, construction and comissioning of electrical systems, including PLC/HMI programming and commissioning.</h3>
 <h1 align="center"></h1>
 <h3 align="left">🌐 I'm passionate about creating efficient and practical solutions through coding and hardware hacking—exploring and modifying electronics to unlock their full potential.</h3>
+<h3 align="left">🔧 Electronics and PCB design is where I fine-tune my passion for hardware. From designing custom circuit boards to crafting intricate electronic systems, I find joy in connecting components for innovative solutions.</h3>
 <h3 align="left">💻 I enjoy working with Kali Linux, leveraging its powerful tools for ethical hacking and cybersecurity projects, and I thrive on the thrill of being part of the cybersecurity community at events like Defcon Vegas.</h3>
 <h3 align="left">🎮 PC gaming is my escape—immersing myself in vibrant worlds while appreciating the technology that makes it possible.</h3>
 <h3 align="left">🤖 I love tinkering with Arduino and Raspberry Pi, crafting projects that connect software to hardware seamlessly.</h3>
